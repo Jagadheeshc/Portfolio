@@ -1,0 +1,35 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.img {
+    background-image: url(img/adrien-olichon-u34JNBOIQ10-unsplash.jpg);
+    padding: 150px 0px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 span {
+    color:rgb(212, 34, 212) ;
+}
+
+.maroon {
+     background-color: rgb(212, 34, 212);
+}
+.purple {
+    background-color: rgb(243, 187, 3);
+}
+
+
+    .bar li:hover{
+        color: red;
+    }
+
+   .contact {
+        background-image: url(img/pic\ \(3\).jpg);
+        padding: 70px 0px;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
